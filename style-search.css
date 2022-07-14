@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input-group {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.input-group input {
+  margin-left: 1em;
+  width: 300px;
+  padding: 0.5em;
+}
+
+.item-lists {
+  width: 400px;
+  margin: 2em auto;
+  text-align: center;
+  list-style-type: none;
+}
+
+.item-name {
+  padding: 1em 0;
+  background-color: aliceblue;
+  border: 2px solid red;
+  margin: 0.5em;
+}
